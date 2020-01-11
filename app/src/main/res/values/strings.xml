@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">events</string>
+    <string name="save">Save</string>
+    <string name="delete_all_events">Delete all events</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="event_date_time">Event date and time</string>
+    <string name="select_event_time">Select event date and time</string>
+    <string name="update">Update</string>
+</resources>
